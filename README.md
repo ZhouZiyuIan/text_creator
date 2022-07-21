@@ -1,3 +1,3 @@
-# text_creator
-bad text!!!
-[Link](https://zhouziyuian.github.io/text_creator)
+#### 狗屁不通文章生成器
+# 屑作文!!!
+## [Link](https://zhouziyuian.github.io/text_creator)
